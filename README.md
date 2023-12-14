@@ -13,16 +13,16 @@ Proyecto Final Integrador para Social Fashion.
 1. **Clona el repositorio:**
 
     ```bash
-    git clone https://github.com/tuusuario/socialfashion.git
+    https://github.com/SamuelNar/SocialFashion.git
     cd socialfashion
     ```
 
 2. **Configura la base de datos MySQL en `application.properties`:**
 
     ```properties
-    spring.datasource.url=jdbc:mysql://localhost:3306/tu_base_de_datos
-    spring.datasource.username=tu_usuario
-    spring.datasource.password=tu_contraseña
+    spring.datasource.url=jdbc:mysql://localhost:3306/NombreDeLaBase
+    spring.datasource.username= TuUsuario
+    spring.datasource.password= TuContraseña
     ```
 
 3. **Ejecuta la aplicación:**
