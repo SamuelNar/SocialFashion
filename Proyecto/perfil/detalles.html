@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Detalle de la Imagen</title>
+    <!-- Estilos CSS (se pueden agregar aquí o en un archivo externo) -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="header">
+      <h1>Detalle de la Imagen</h1>
+    </div>
+
+    <div class="user-info detalles">
+      <p>likes: 10</p>
+    </div>
+
+    <h2>Imagen</h2>
+    <div class="photo-container">
+      <div class="photo-card">
+        <img src="" id="detalle-imagen" alt="Imagen Detallada" />
+      </div>
+      <!-- Cargar la imagen específica basada en el identificador proporcionado en la URL -->
+    </div>
+
+    <h2 class="comment-section">Comentarios</h2>
+    <div class="comment-section">
+      <!-- Lista de comentarios de la imagen -->
+      <div class="comment">
+        <p>Usuario 1: ¡Hermosa foto!</p>
+      </div>
+      <div class="comment">
+        <p>Usuario 2: Me encanta este lugar.</p>
+      </div>
+      <!-- Agregar más comentarios según sea necesario -->
+    </div>
+
+    <script>
+      // JavaScript para cargar la imagen específica basada en la URL
+      document.addEventListener("DOMContentLoaded", function () {
+        const urlParams = new URLSearchParams(window.location.search);
+        const imagen = urlParams.get("imagen");
+        const detalleImagen = document.getElementById("detalle-imagen");
+        detalleImagen.src = imagen;
+      });
+    </script>
+  </body>
+</html>

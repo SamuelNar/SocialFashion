@@ -1,0 +1,119 @@
+Contraseña gral: 123456
+Pubicación 01
+Titulo: Look cómodo y sofisticado 24/7
+Descripción:  El sueño de cualquier mujer es estar cómoda 24/7 y lucir perfecta sin importar el outfit que hayamos elegido para ese día. Aunque creemos que estar cómodas es sinónimo de usar prendas deportivas o street style, la realidad es que no es así.
+Usuario: Armani
+Mail: info@armani.com
+
+---------------------------------------------------------
+Pubicación 02
+
+Titulo: Moda casual y juvenil
+Descripción:  Monos, blusas anudadas con mangas oxfors, palazzos, pantalones, shorts de fiesta, vestidos largos, vestidos cortos, todo para armar looks casuales juveniles para el día y para ocasiones especiales.
+Usuario: Chanel
+Mail: info@chanel.com
+
+---------------------------------------------------------
+Pubicación 03
+
+Titulo: Top unicolor con tirantes y volados
+Descripción:  Una prenda de vestir elegante y femenina que combina simplicidad y estilo de manera perfecta. Este top presenta un diseño limpio y sin estampados, lo que lo convierte en una elección versátil para una variedad de ocasiones.
+Usuario: Lagerfeld
+Mail: info@lagerfeld.com
+
+---------------------------------------------------------
+Pubicación 04
+
+Titulo: Look suelto con un toque oriental
+Descripción:  Es una elección de vestimenta que combina la comodidad con la elegancia inspirada en la estética oriental. Este conjunto te permite experimentar la fusión de elementos relajados y exóticos en una sola propuesta de moda.
+Usuario: Lauren
+Mail: info@lauren.com
+
+---------------------------------------------------------
+Pubicación 05
+
+Titulo: Estilo total black para la oficina y after
+Descripción:  Cuando llega la hora de un after-work, este mismo conjunto se transforma en algo más audaz. Quita el blazer y, si lo deseas, desabrocha un botón extra de la camisa o blusa para un toque más relajado. Puedes optar por unos tacones más llamativos.
+Usuario: Wang
+Mail: info@wang.com
+
+---------------------------------------------------------
+Pubicación 06
+
+Titulo: Vestido de fiesta rojo con volados
+Descripción: Una elección que evoca pasión, elegancia y un toque de dramatismo en cualquier evento especial. Este deslumbrante vestido rojo es perfecto para robar miradas y destacar en una fiesta o celebración.
+Usuario: Klein
+Mail: info@klein.com
+
+---------------------------------------------------------
+Pubicación 07
+
+Titulo: Vestido de fiesta rojo con volados
+Descripción: Atuendo que es apropiado para ocasiones especiales, cenas elegantes o eventos formales. Puedes complementar este conjunto con accesorios elegantes, como un cinturón delgado y joyería delicada para añadir un toque adicional de sofisticación.
+Usuario: McCartney
+Mail: info@maccartney.com
+
+---------------------------------------------------------
+Pubicación 08
+
+Titulo: Look minimalista total black
+Descripción:  Minimalista no es sinónimos de aburrido. Es chic, atemporal, fino y elegante. Un look básico para complementar con los accesorios que desees, manteniendo un aire simple y refinado.
+Usuario: Jacobs
+Mail: info@jacobs.com
+
+---------------------------------------------------------
+Pubicación 09
+
+Titulo: Chaqueta de Jeans no tradicional
+Descripción:  El jean es sinónimo de elegancia para cualquier hora del día e infaltable en el guardaropa masculino. Combina este look con una camisa para ir al trabajo para tener un resultado casual.
+Usuario: Versace
+Mail: info@versace.com
+
+---------------------------------------------------------
+Pubicación 10
+
+Titulo: Look azul marino y gafas
+Descripción:  Caminsa de manga larga blanda con pantalón azul marino para una vestimenta cómoda. Suma unos mocasines con borlas para darle elegancia y estilo. No olvides los tiradores!
+Usuario: McQueen
+Mail: info@mcqueen.com
+
+---------------------------------------------------------
+Pubicación 11
+
+Titulo: Cardigan para los hombres
+Descripción:  Vamos a poner en contexto el cardigan. Su historia, sus diferentes estilos, y su importancia en el armario masculino. Forma de llevarlo con mucho estilo para un look impactante.
+Usuario: Laurent
+Mail: info@laurent.com
+
+---------------------------------------------------------
+Pubicación 12
+
+Titulo: Estilo bohemio masculino presente
+Descripción:  Tips para un estilo bohemio exitoso. Animate a un look libre que reviva tu estilo. Combina tus prendas de siempre dandoles un nuevo aire.
+Usuario: Dolce
+Mail: info@dolce.com
+
+---------------------------------------------------------
+Pubicación 13
+
+Titulo: Look de oficina para el día a día
+Descripción:  Impulsa tu estilo con un buen suéter de lana merino esta temporada 2023!! Un estilo fácil y sencillo para el día a día laboral, lleva tu mejor suéter de tendencia.
+Usuario: Gabbana
+Mail: info@gabbana.com
+
+---------------------------------------------------------
+Pubicación 14
+
+Titulo: Viste cool este verano
+Descripción:  La mejor alternativa para vestir este verano son los shorts de denim. Frescos, cómodos, para combinar con accesorios como lentes y sombreros! El perfecto outfit para este verano.
+Usuario: delaRenta
+Mail: info@delarenta.com
+
+---------------------------------------------------------
+Pubicación 15
+
+Titulo:  Vestimenta clásica, atemporal y elegante
+Descripción:  Este traje con chaleco es una elección ideal para ocasiones formales, como bodas, eventos de gala, reuniones de negocios y cenas elegantes. Crea un look clásico y atemporal que destaca por su elegancia y estilo.
+Usuario: Garavani
+Mail: info@garavani.com
+

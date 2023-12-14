@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+a {
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.formulario {
+  position: relative;
+  padding: 10px;
+  box-shadow: 4px 4px 10px 4px rgb(186, 186, 186);
+  border-radius: 10px;
+  top: 50px;
+  z-index: 20;
+}
+
+.form-h3 {
+  text-align: center;
+  text-shadow: 2px 2px 4px rgb(255, 255, 255);
+}
+
+.mensajeExito {
+  font-size: 24px; /* Cambiar el tamaño de fuente a tu gusto */
+  padding: 20px; /* Cambiar el padding para ajustar el tamaño del mensaje */
+  height: 900px; /* Ajusta la altura según tus preferencias */
+}
+
+
+
+.like-button {
+  transition: transform 0.3s ease-in-out;
+}
+
+.like-button:hover {
+  transform: scale(1.2);
+}
+
+.liked {
+  animation: like-animation 0.5s ease-in-out;
+}
+
+@keyframes like-animation {
+  0% {
+    transform: scale(1);
+    margin-left: 0;
+  }
+  25% {
+    transform: scale(1.5);
+    margin-left: 5px;
+  }
+  50% {
+    transform: scale(1.2);
+    margin-left: -5px;
+  }
+  75% {
+    transform: scale(1.5);
+    margin-left: 5px;
+  }
+  100% {
+    transform: scale(1);
+    margin-left: 0;
+  }
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vista de Fotos de Usuario</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="header">
+      <h1>Fotos del Usuario</h1>
+    </div>
+
+    <div class="user-info">
+      <h1>Perfil de Usuario</h1>
+      <p>Nombre de Usuario: <span id="username">Nombre de Usuario</span></p>
+      <p>Correo Electrónico: <span id="email">usuario@ejemplo.com</span></p>
+      <button id="report-button">Reportar Usuario</button>
+    </div>
+
+    <h2>Fotos del Usuario</h2>
+    <div class="photo-container">
+      <!-- Aquí se mostrarán las fotos del usuario -->
+      <a
+        href="detalles.html?id=1&imagen=10.jpg"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <div class="photo-card">
+          <img src="10.jpg" alt="Foto 1" />
+        </div>
+      </a>
+      <div class="photo-card">
+        <img src="11.jpg" alt="Foto 2" />
+      </div>
+      <div class="photo-card">
+        <img src="12.jpg" alt="Foto 2" />
+      </div>
+      <div class="photo-card">
+        <img src="13.jpg" alt="Foto 2" />
+      </div>
+      <div class="photo-card">
+        <img src="14.jpg" alt="Foto 2" />
+      </div>
+      <div class="photo-card">
+        <img src="05.jpg" alt="Foto 2" />
+      </div>
+      <div class="photo-card">
+        <img src="06.jpg" alt="Foto 2" />
+      </div>
+      <div class="photo-card">
+        <img src="07.jpg" alt="Foto 2" />
+      </div>
+      <!-- Agrega más tarjetas de fotos según sea necesario -->
+    </div>
+
+    <script>
+      // JavaScript para cargar datos del usuario y manejar el botón de reporte
+      document.addEventListener("DOMContentLoaded", function () {
+        // Simula la carga de datos del usuario desde una fuente de datos
+        const userData = {
+          username: "UsuarioEjemplo",
+          email: "usuario@ejemplo.com",
+        };
+
+        document.getElementById("username").textContent = userData.username;
+        document.getElementById("email").textContent = userData.email;
+
+        // Manejar el botón de reporte
+        const reportButton = document.getElementById("report-button");
+        reportButton.addEventListener("click", function () {
+          // Implementa aquí la lógica para reportar al usuario
+          alert("Usuario reportado");
+        });
+      });
+    </script>
+  </body>
+</html>

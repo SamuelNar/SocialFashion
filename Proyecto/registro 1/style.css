@@ -1,0 +1,52 @@
+@keyframes rotate {
+  100% {
+    background-position: 25% 50%;
+  }
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("background.svg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  animation: rotate 5s infinite alternate linear;
+}
+.login-container {
+  width: 500px; /* Increased width */
+  padding: 16px;
+  background-color: rgba(255, 255, 255); /* Turquoise background */
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 0px #0000001a;
+}
+.login-container h1 {
+  text-align: center;
+  color: #5b6574;
+}
+.login-container input[type="text"],
+.login-container input[type="password"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.login-container button {
+  background: #685aff;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 10px;
+}
+a {
+  display: flex;
+  justify-content: center;
+}
