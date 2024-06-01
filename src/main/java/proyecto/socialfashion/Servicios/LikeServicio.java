@@ -22,10 +22,7 @@ public class LikeServicio {
     
     @Autowired
     PublicacionRepositorio publicacionRepositorio;
-
-    @Autowired
-    private UsuarioServicio usuarioServicio;
-            
+               
     @Transactional()
     public void crearLike(Publicacion publicacion, Usuario usuario){
         Like like = new Like();
